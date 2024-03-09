@@ -1,0 +1,3 @@
+[submodule "RegisterTest"]
+	path = RegisterTest
+	url = https://github.com/ComeToTupik/RegisterTest
